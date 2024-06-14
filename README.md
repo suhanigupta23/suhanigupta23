@@ -1,5 +1,5 @@
-![hideout](https://github.com/suhanigupta23/suhanigupta23/assets/144280247/d84a9d10-3716-4d86-93ab-f43705369370)
 
+<img src="https://github.com/suhanigupta23/suhanigupta23/assets/144280247/d84a9d10-3716-4d86-93ab-f43705369370" width="1500px">
 
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile%20views&color=0e75b6&style=flat" alt="suhanigupta23" /> </p>
