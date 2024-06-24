@@ -1,4 +1,4 @@
-<img src="https://github.com/suhanigupta23/suhanigupta23/assets/144280247/d84a9d10-3716-4d86-93ab-f43705369370" height="500px" width="700px">
+<img src="https://github.com/suhanigupta23/suhanigupta23/assets/144280247/0c33276d-25c4-45ad-bab8-031baf3404d6" height="500px" width="700px">
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile%20views&color=0e75b6&style=flat" alt="suhanigupta23" /> </p>
 
