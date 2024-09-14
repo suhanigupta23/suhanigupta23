@@ -15,31 +15,26 @@
     <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
   </a>
 </p>
-<br>
 <h3 align="left">Frontend Development:</h3>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css" />
   </a>
 </p>
-<br>
 <h3 align="left">Backend Development:</h3>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,postman" />
   </a>
 </p>
-<br>
 <h3 align="left">Databases:</h3>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-<br>
 <h3 align="left">Other:</h3>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,github,bash" />
   </a>
 </p>
-<br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanigupta23&show_icons=true&locale=en&layout=compact" alt="suhanigupta23" /></p>
 
