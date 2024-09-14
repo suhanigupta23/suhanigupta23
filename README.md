@@ -8,7 +8,7 @@
 - 📫 How to reach me **suhanigupta2304@gmail.com**
 
 <hr>
-<h2>✨Technical Tools</h2>
+<h2>Technical Tools✨:</h2>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
