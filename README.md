@@ -35,6 +35,15 @@
   </a>
 </p>
 <hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="[https://skillicons.dev](https://linkedin.com/in/suhani-gupta23)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+<a href="https://linkedin.com/in/suhani-gupta23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani-gupta23" height="30" width="40" /></a>
+<a href="https://instagram.com/suhanigupta_23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanigupta_23_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/suhanigupta23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suhanigupta23" height="30" width="40" /></a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanigupta23&show_icons=true&locale=en&layout=compact" alt="suhanigupta23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhanigupta23&show_icons=true&locale=en" alt="suhanigupta23" /></p>
@@ -43,9 +52,3 @@
 
 
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suhani-gupta23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani-gupta23" height="30" width="40" /></a>
-<a href="https://instagram.com/suhanigupta_23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanigupta_23_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suhanigupta23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suhanigupta23" height="30" width="40" /></a>
-</p>
