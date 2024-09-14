@@ -43,7 +43,7 @@
 <a href="https://instagram.com/suhanigupta_23_">
     <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://www.codechef.com/users/suhanigupta23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suhanigupta23" height="45" width="45" /></a>
+
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanigupta23&show_icons=true&locale=en&layout=compact" alt="suhanigupta23" /></p>
 
