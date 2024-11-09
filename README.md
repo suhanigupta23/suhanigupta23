@@ -7,27 +7,27 @@
 
 <hr>
 <h2>Technical Tools✨:</h2>
-<h3 align="left">Programming Languages:</h3>
+
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
   </a>
 </p>
-<h3 align="left">Frontend Development:</h3>
+
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css" />
   </a>
 </p>
-<h3 align="left">Backend Development:</h3>
+
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,postman" />
   </a>
 </p>
-<h3 align="left">Databases:</h3>
+
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-<h3 align="left">Other:</h3>
+
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,github,bash" />
   </a>
