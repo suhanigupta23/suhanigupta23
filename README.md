@@ -10,28 +10,13 @@
 
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
-  </a>
-</p>
-
-<p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css" />
-  </a>
-</p>
-
-<p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,postman" />
-  </a>
-</p>
-
-<p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
+     <img src="https://skillicons.dev/icons?i=git,vscode,github,bash" />
   </a>
 </p>
 
-<p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,github,bash" />
-  </a>
-</p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
