@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile%20views&color=0e75b6&style=flat" alt="suhanigupta23" /> </p>
 
 - 🌱 I’m currently learning **REACT and DSA in Java**
 - 🔭 Contributed in **GSSoC'24.**
@@ -36,3 +35,4 @@
 
 
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile%20views&color=0e75b6&style=flat" alt="suhanigupta23" /> </p>
