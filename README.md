@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 
-- 🌱 I’m currently learning **REACT and DSA in Java**
+- 🌱 I’m currently learning **Full Stack WebDev and DSA in Java**
 - 🔭 Contributed in **GSSoC'24.**
 - 📫 How to reach me **suhanigupta2304@gmail.com**
 
