@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 
-![ad2827bd04156a46531582ada6928dec](https://github.com/user-attachments/assets/1993f1f5-4cb0-4d4d-9d80-2cfad5ec629a)
+<center>![ad2827bd04156a46531582ada6928dec](https://github.com/user-attachments/assets/1993f1f5-4cb0-4d4d-9d80-2cfad5ec629a)</center>
 
 - 🌱 I’m currently learning **Full Stack WebDev and DSA in Java**
 - 🔭 Contributed in **GSSoC'24.**
