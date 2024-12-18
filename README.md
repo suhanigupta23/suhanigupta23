@@ -18,7 +18,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
-    
     <img src="https://skillicons.dev/icons?i=git,vscode,github,bash" />
   </a>
 </p>
