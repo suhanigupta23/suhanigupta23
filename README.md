@@ -10,7 +10,7 @@
 <h2>Technical Tools✨:</h2>
 
 <p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,java,js" />
     <img src="https://skillicons.dev/icons?i=react,html,css" />
     <img src="https://skillicons.dev/icons?i=express,postman" />
     <img src="https://skillicons.dev/icons?i=mysql" />
