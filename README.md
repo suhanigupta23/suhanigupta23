@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 
-<img src="https://github.com/user-attachments/assets/1993f1f5-4cb0-4d4d-9d80-2cfad5ec629a" width="730"/>
-
 - 🌱 I’m currently learning **Full Stack WebDev and DSA in Java**
 - 🔭 Contributed in **GSSoC'24.**
 - 📫 How to reach me **suhanigupta2304@gmail.com**
@@ -12,13 +10,13 @@
 <p align="left"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js" />
     <img src="https://skillicons.dev/icons?i=react,html,css" />
-    <img src="https://skillicons.dev/icons?i=express,postman" />
+    <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=git,vscode,github,bash" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,github" />
   </a>
 </p>
 
