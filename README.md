@@ -12,9 +12,9 @@
     <img src="https://skillicons.dev/icons?i=react,html,css" />
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://skillicons.dev/icons?i=figma, spring" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=git,vscode,github" />
   </a>
 </p>
