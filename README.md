@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 
 - 🔭 Contributed in **GSSoC'24.**
-- 📫 How to reach me **suhanigupta2304@gmail.com**
 
+  
 <hr>
 <h2>Technical Tools✨:</h2>
 
