@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
+<h1 align="center">Hi 👋,  I'm Suhani Gupta</h1>
 
 - 🔭 Contributed in **GSSoC'24.**
 
