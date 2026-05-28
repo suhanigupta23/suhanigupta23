@@ -10,28 +10,25 @@
 </div>
 
 ---
-## `whoami`
+## About me: 
 
-```java
-class Suhani {
+🔭 I’m currently working on
+Full-stack projects using Spring Boot, React, and scalable backend systems.
 
-    val university  = "IIIT Kota — B.Tech CSE '27";
-    val location    = "Bhopal, India";
-    val lookingFor  = "SWE Internship — Jun 2026";
+👯 I’m looking to collaborate on
+Open-source projects, impactful hackathons, and developer tools.
 
-    val recentWins  = [
-        "🥇 SheBuilds 2025    → National Finalist  · top 1%  of 1,500+",
-        "🚀 HackOrbit 2025    → Top 10 Finalist    · 1,000+ teams",
-        "🎯 Google Girl Hack  → Stage 2            · Top 300 of 5,000+",
-        "🌱 GSSoC 2024        → Top Contributor    · top 160 of 1,500+",
-        "💻 DSA               → 300+ problems      · LC · GFG · CodeChef"
-    ];
+🤝 I’m looking for help with
+Advanced system design, distributed systems, and backend scalability.
 
-    val askMeAbout  = ["Spring Boot", "React", "System Design", "DSA"];
-    val offScreen   = ["reading 📚", "sketching 🎨", "music 🎵", "traveling 🌍"];
-    val motto       = "still exploring — always building.";
-}
-```
+🌱 I’m currently learning
+System Design, DevOps, and improving problem-solving through DSA.
+
+💬 Ask me about
+Spring Boot, React, APIs, DSA, Hackathons, and Open Source.
+
+⚡ Fun fact
+I love turning late-night ideas into real projects — powered by coffee ☕ and playlists 🎵
 
 ---
 
