@@ -1,4 +1,3 @@
-```md
 ## About me:
 
 <p align="left">
@@ -27,7 +26,6 @@ Spring Boot, React, DSA, hackathons, and open source.
 ⚡ Fun fact <br>
 When I’m not coding, I’m probably reading, sketching, traveling, or curating playlists 🎧
 </p>
-```
 
 ---
 
