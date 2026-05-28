@@ -1,18 +1,5 @@
 <div align="center">
 
-<!-- typing SVG — customize at https://readme-typing-svg.demolab.com -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=%2F%2F+welcome+to+my+github" alt="welcome" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=52&pause=99999&color=E6EDF3&center=true&vCenter=true&width=700&height=80&lines=Suhani+Gupta" alt="name" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=open+source+contributor+%C2%B7+hackathon+finalist+%C2%B7+always+exploring" alt="tagline" />
-
-<br/><br/>
-
 <a href="mailto:suhanigupta2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/suhani-gupta23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://suhanigupta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
