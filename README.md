@@ -51,7 +51,7 @@ class Suhani {
 
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,flask,postgres,mongodb,redis,firebase,mysql&theme=dark)](https://skillicons.dev)
 
-**tTools :**
+**Tools :**
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,vercel,postman&theme=dark)](https://skillicons.dev)
 
