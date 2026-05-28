@@ -1,6 +1,6 @@
 ## About me:
 
-<img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/bb0a5546-01c4-4a9c-9fe9-f35ce76e265c" style="margin-top: 40px;" />
+<img align="right" alt="coding" width="330" src="https://github.com/user-attachments/assets/bb0a5546-01c4-4a9c-9fe9-f35ce76e265c" style="margin-top: 80px;" />
 
 🔭 I’m currently working on <br>
 Building full-stack apps & exploring backend systems.
