@@ -22,10 +22,7 @@
 <br/><br/>
 </div>
 
-<br/>
-
 ---
-
 ## `whoami`
 
 ```java
