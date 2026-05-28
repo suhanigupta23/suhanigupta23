@@ -12,19 +12,19 @@
 ---
 ## About me: 
 
-🔭 I’m currently working on
+🔭 I’m currently working on <br>
 Building full-stack apps & exploring backend systems.
 
-👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on <br>
 Hackathons, open source, and fun side projects.
 
-🌱 I’m currently learning
-DevOps, distributed systems, and better engineering practices.
+🌱 I’m currently learning <br>
+System Design and improving problem-solving through DSA.
 
-💬 Ask me about
+💬 Ask me about <br>
 Spring Boot, React, DSA, hackathons, and open source.
 
-⚡ Fun fact
+⚡ Fun fact <br>
 When I’m not coding, I’m probably reading, sketching, traveling, or curating playlists 🎧
 
 ---
