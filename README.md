@@ -130,26 +130,7 @@ AI health platform with GPT + CoWIN API integration. Built at HackOrbit 2025 —
 
 ---
 
-## 📊 github stats
-
-<div align="center">
-
-<!-- snake — setup instructions below README -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/suhanigupta23/suhanigupta23/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/suhanigupta23/suhanigupta23/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://github.com/suhanigupta23/suhanigupta23/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<br/><br/>
-
-<!-- github stats card — theme: tokyonight, shows total contributions -->
-<img src="https://github-readme-stats.vercel.app/api?username=suhanigupta23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged&rank_icon=github" width="480"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=484F58&center=true&vCenter=true&width=400&lines=still+exploring+%E2%80%94+always+building." />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=suhanigupta23&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=suhanigupta23&theme=calm_pink&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=suhanigupta23&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
