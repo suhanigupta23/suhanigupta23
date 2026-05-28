@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/suhani-gupta23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://suhanigupta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="https://codolio.com/profile/SuhaniGupta"><img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logoColor=white"/></a>&nbsp;
-<a href="https://leetcode.com/suhanigupta23"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/SuhaniGupta_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
 </div>
