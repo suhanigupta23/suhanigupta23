@@ -16,7 +16,7 @@
 Building full-stack apps & exploring backend systems.
 
 👯 I’m looking to collaborate on <br>
-Hackathons, open source, and fun side projects.
+Hackathons, open source, and projects.
 
 🌱 I’m currently learning <br>
 System Design and improving problem-solving through DSA.
