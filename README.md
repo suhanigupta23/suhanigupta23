@@ -115,5 +115,5 @@ AI health platform with GPT + CoWIN API integration. Built at HackOrbit 2025 —
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suhanigupta23&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=suhanigupta23&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=suhanigupta23&theme=calm_pink&hide_border=true)<br/>
