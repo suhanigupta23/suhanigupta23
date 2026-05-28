@@ -20,8 +20,6 @@
 <a href="https://leetcode.com/suhanigupta23"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=suhanigupta23&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-
 </div>
 
 <br/>
