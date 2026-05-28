@@ -1,40 +1,26 @@
-## About me: 
+```md
+## About me:
 
-<table>
-<tr>
-<td valign="top">
+<img align="right" width="350" height="180" alt="7d6604111a2fb44b73a4bc8b643e479d" src="https://github.com/user-attachments/assets/bb0a5546-01c4-4a9c-9fe9-f35ce76e265c" />
 
 🔭 I’m currently working on <br>
 Building full-stack apps & exploring backend systems.
 
-<br>
-
 👯 I’m looking to collaborate on <br>
 Hackathons, open source, and projects.
-
-<br>
 
 🌱 I’m currently learning <br>
 System Design and improving problem-solving through DSA.
 
-<br>
-
 💬 Ask me about <br>
 Spring Boot, React, DSA, hackathons, and open source.
 
-<br>
-
 ⚡ Fun fact <br>
 When I’m not coding, I’m probably reading, sketching, traveling, or curating playlists 🎧
+```
 
-</td>
-
-<td align="right">
-<img width="500" height="200" alt="7d6604111a2fb44b73a4bc8b643e479d" src="https://github.com/user-attachments/assets/bb0a5546-01c4-4a9c-9fe9-f35ce76e265c" />
-</td>
-</tr>
-</table>
 ---
+
 <div align="center">
 <a href="mailto:suhanigupta2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/suhani-gupta23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
