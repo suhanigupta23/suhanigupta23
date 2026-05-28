@@ -18,9 +18,6 @@ Full-stack projects using Spring Boot, React, and scalable backend systems.
 👯 I’m looking to collaborate on
 Open-source projects, impactful hackathons, and developer tools.
 
-🤝 I’m looking for help with
-Advanced system design, distributed systems, and backend scalability.
-
 🌱 I’m currently learning
 System Design, DevOps, and improving problem-solving through DSA.
 
@@ -32,9 +29,7 @@ I love turning late-night ideas into real projects — powered by coffee ☕ and
 
 ---
 
-## 🛠 tech stack
-
-<!-- skillicons — no setup needed, just works -->
+## 🛠 Tech Stack
 
 **Languages :**
 
