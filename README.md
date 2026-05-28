@@ -13,19 +13,19 @@
 ## About me: 
 
 🔭 I’m currently working on
-Full-stack projects using Spring Boot, React, and scalable backend systems.
+Building full-stack apps & exploring backend systems.
 
 👯 I’m looking to collaborate on
-Open-source projects, impactful hackathons, and developer tools.
+Hackathons, open source, and fun side projects.
 
 🌱 I’m currently learning
-System Design, DevOps, and improving problem-solving through DSA.
+DevOps, distributed systems, and better engineering practices.
 
 💬 Ask me about
-Spring Boot, React, APIs, DSA, Hackathons, and Open Source.
+Spring Boot, React, DSA, hackathons, and open source.
 
 ⚡ Fun fact
-I love turning late-night ideas into real projects — powered by coffee ☕ and playlists 🎵
+When I’m not coding, I’m probably reading, sketching, traveling, or curating playlists 🎧
 
 ---
 
