@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="1199" height="672" alt="7d6604111a2fb44b73a4bc8b643e479d" src="https://github.com/user-attachments/assets/bb0a5546-01c4-4a9c-9fe9-f35ce76e265c" />
+<img width="500" height="200" alt="7d6604111a2fb44b73a4bc8b643e479d" src="https://github.com/user-attachments/assets/bb0a5546-01c4-4a9c-9fe9-f35ce76e265c" />
 
 <a href="mailto:suhanigupta2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/suhani-gupta23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
