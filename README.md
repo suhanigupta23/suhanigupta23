@@ -40,7 +40,7 @@ When I’m not coding, I’m probably reading, sketching, traveling, or curating
 
 **Backend & Databases :**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,flask,postgres,mongodb,redis,firebase,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,postgres,mongodb,redis,firebase,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools :**
 
