@@ -7,13 +7,6 @@
 
 ---
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/suhanigupta23/suhanigupta23/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
 <h3 align="center">✨ Full-Stack Developer · Backend Tinkerer · Hackathon Finalist · IIIT Kota'27</h3>
 
@@ -48,14 +41,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhanigupta23&theme=dracula&margin-w=15&margin-h=15&no-bg=true&row=1" />
-</p>
 
 ---
 
@@ -95,7 +80,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 
 </div>
@@ -107,16 +91,10 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=suhanigupta23&show_icons=true&theme=tokyonight&locale=en&count_private=true&custom_title=Suhani's+GitHub+Stats&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanigupta23&layout=compact&theme=tokyonight&langs_count=6&custom_title=Top+Languages&hide_border=true" height="180px"/>
-
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=suhanigupta23&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanigupta23&theme=tokyonight" width="700px"/>
 </div>
 
 ---
@@ -132,20 +110,6 @@
 | 💼 **[CareerCopilot](https://github.com/suhanigupta23)** | AI job tracker with GPT-3.5 resume-JD scoring | Spring Boot · JWT · PostgreSQL · OpenAI API |
 
 </div>
-
----
-
-## 🏅 Hackathons & Achievements
-
-🥇 **SheBuilds 2025** — National Finalist *(Top 1%, 1,500+ entries)* — Built **InTune**
-
-🏆 **HackOrbit 2025** — Top 10 Finalist + Open Innovation Track Winner *(1,000+ teams)* — Built **Saarthi**
-
-🌟 **Google Girl Hackathon 2025** — Stage 2 Selection *(Top 300, 5,000+ participants)*
-
-🌸 **GirlScript Summer of Code 2024** — Top Contributor *(Top 160, 1,500+ contributors)*
-
-💡 **Competitive Programming** — 400+ problems solved on LeetCode · GFG · CodeChef *(2⭐)*
 
 ---
 
@@ -176,9 +140,3 @@
   <br/><br/>
   <i>✨ "Build it, break it, fix it better." ✨</i>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile+Views&color=C084FC&style=flat" alt="profile views" />
-</p>
