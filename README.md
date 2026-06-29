@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Suhani+%F0%9F%91%8B%E2%80%8D%E2%99%80%EF%B8%8F;Full-Stack+Dev+%7C+Backend+Enthusiast;Spring+Boot+%2B+React+%7C+Building+Real+Things;Hackathon+Finalist+%7C+Open+Source+Contributor;When+in+doubt%2C+just+ship+it+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Suhani+%F0%9F%91%8B%E2%80%8D%E2%99%80%EF%B8%8F;Full-Stack+Dev+%7C+Backend+Enthusiast;Spring+Boot+%2B+React+%7C+Building+Real+Things;Hackathon+Finalist+%7C+Open+Source+Contributor;When+in+doubt%2C+just+ship+it+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="girl coding gif"/>
-
-</div>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/suhanigupta23/suhanigupta23/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -20,7 +19,12 @@
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="coding animation"/>
+<!-- Side-by-side: About Me (left) + Girl GIF (right) using HTML table -->
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 🙋‍♀️ About Me
 
 - 🔭 Currently building **full-stack apps & exploring backend systems**
 
@@ -36,7 +40,14 @@
 
 - ⚡ Fun fact: *When I'm not coding, I'm reading, sketching, traveling, or curating playlists 🎧*
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="320" alt="girl coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,29 +61,44 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c" />
-</p>
+### 💻 Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-**Frontend:**
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-**Backend & Databases:**
+### 🗄️ Databases & Caching
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgresql,mongodb,redis,mysql,firebase" />
-</p>
+### 🔧 Tools & Platforms
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 
-**Tools & Platforms:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,figma" />
-</p>
+</div>
 
 ---
 
@@ -130,10 +156,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/suhanigupta23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://suhanigupta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:suhanigupta2304@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -147,6 +173,12 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="thanks for visiting"/>
-  <br/>
+  <br/><br/>
   <i>✨ "Build it, break it, fix it better." ✨</i>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile+Views&color=C084FC&style=flat" alt="profile views" />
+</p>
