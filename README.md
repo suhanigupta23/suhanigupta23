@@ -150,9 +150,3 @@
   <br/>
   <i>✨ "Build it, break it, fix it better." ✨</i>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanigupta23&label=Profile+Views&color=C084FC&style=flat" alt="profile views" />
-</p>
