@@ -36,8 +36,7 @@
 </td>
 <td valign="top" width="40%">
 
-<img src="<img width="500" height="565" alt="GALAXY-PINK-compressed" src="https://github.com/user-attachments/assets/1fb790f6-3fba-4cca-8df7-73df5fee2740" />
-" width="320" alt="girl coding gif"/>
+<img width="500" height="565" alt="GALAXY-PINK-compressed" src="https://github.com/user-attachments/assets/1fb790f6-3fba-4cca-8df7-73df5fee2740" />
 
 </td>
 </tr>
