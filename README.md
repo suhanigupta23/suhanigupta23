@@ -36,7 +36,8 @@
 </td>
 <td valign="top" width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="320" alt="girl coding gif"/>
+<img src="<img width="500" height="565" alt="GALAXY-PINK-compressed" src="https://github.com/user-attachments/assets/1fb790f6-3fba-4cca-8df7-73df5fee2740" />
+" width="320" alt="girl coding gif"/>
 
 </td>
 </tr>
