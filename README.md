@@ -9,9 +9,7 @@
 <p><a href="https://suhanigupta.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/suhani-gupta23/">LinkedIn</a> · <a href="mailto:suhanigupta2304@gmail.com">Email</a> · <a href="https://leetcode.com/u/suhani-gupta23/">LeetCode</a></p>
 
 </div>
-
-<!-- To add your GIF later, replace YOUR_GIF_URL_HERE with your image URL and uncomment the img element below. -->
-<!-- <img align="right" src="YOUR_GIF_URL_HERE" width="180" height="180" alt="Suhani's animated coding GIF" /> -->
+<img align="right" src="https://github.com/user-attachments/assets/62c214bd-aaf5-401d-a6bf-732c2f9cc3ef" width="180" height="180" alt="Suhani's animated coding GIF" />
 
 I'm a final-year CSE student at IIIT Kota, interested in backend engineering, real-time systems, and practical AI integration. I enjoy working through the challenges of making applications reliable, not just getting features to work.
 
