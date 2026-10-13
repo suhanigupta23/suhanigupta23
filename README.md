@@ -1,141 +1,45 @@
-<div align="center">
+# Suhani Gupta
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Suhani;Full-Stack+Dev+%7C+Backend+Enthusiast;Spring+Boot+%2B+React+%7C+Building+Real+Things;Hackathon+Finalist+%7C+Open+Source+Contributor;When+in+doubt%2C+just+ship+it+%F0%9F%9A%80" />
+**Full-stack developer · Backend-focused · IIIT Kota, CSE ’27**
 
-</div>
+I’m a final-year computer science student working primarily with Java, Spring Boot, React, and TypeScript. I’m interested in backend engineering, real-time collaboration, and practical AI features, and I learn by building software people can try.
 
----
+[Portfolio](https://suhanigupta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/suhani-gupta23/) · [Email](mailto:suhanigupta2304@gmail.com) · [LeetCode](https://leetcode.com/u/suhanigupta23/)
 
-<h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
-<h3 align="center">✨ Full-Stack Developer · Backend Tinkerer · Hackathon Finalist · IIIT Kota'27</h3>
+## Featured projects
 
-<br/>
+### SketchRoom — Real-time collaborative whiteboard
+A shared drawing space with synchronized multi-user sessions, shared undo/redo, late-join replay, and reconnect recovery. The WebSocket/STOMP event pipeline batches up to 32 drawing segments into one Redis write and checkpoints state to PostgreSQL.
 
-<!-- Side-by-side: About Me (left) + Girl GIF (right) using HTML table -->
-<table>
-<tr>
-<td valign="top" width="60%">
+[Live demo](https://sketch-room-ashy.vercel.app/) · [Repository](https://github.com/suhanigupta23/SketchRoom) · **Batching:** up to 96.9% fewer Redis write operations per full batch
 
-### 🙋‍♀️ About Me
+### Saarthi — Women’s health and telehealth
+A women’s health and telehealth platform for health tracking, appointments, virtual consultations, payments, and AI-assisted symptom guidance. Its Spring Boot and PostgreSQL backend includes concurrency-safe booking, idempotent Stripe payment handling, and a resilient Gemini integration.
 
-- 🔭 Currently building **full-stack apps & exploring backend systems**
+[Live demo](https://saarthi-nine-gamma.vercel.app/) · [Repository](https://github.com/suhanigupta23/Saarthi)
 
-- 👯 Open to collaborate on **hackathons, open source & side projects**
+### InTune — AI-assisted roommate matching
+A roommate-matching app that compares lifestyle descriptions for semantic compatibility, with voice onboarding and browser-based document OCR. Its Spring Boot API and MongoDB work with a separate Python/FastAPI matching service.
 
-- 🌱 Currently learning **System Design** & sharpening **DSA**
+[Live demo](https://in-tune-phi.vercel.app/) · [Repository](https://github.com/suhanigupta23/InTune)
 
-- 💬 Ask me about **Spring Boot, React, WebSockets, Redis, DSA, hackathons**
+## Selected achievements
 
-- 🌐 Portfolio: **[suhanigupta.vercel.app](https://suhanigupta.vercel.app/)**
+- **Flipkart GRiD 8.0 (2026):** Advanced to Round 3 (Semifinalist).
+- **SheBuilds Hackathon (2025):** National finalist; Top 1% of 1,500+ entries.
+- **HackOrbit Hackathon (2025):** Open Innovation Track winner; Top 10 finalist among 1,000+ teams.
+- **GirlScript Summer of Code (2024):** Top 11% contributor (Top 160 of 1,500+).
 
-- 📫 Reach me at: **suhanigupta2304@gmail.com**
+## Technologies
 
-- ⚡ Fun fact: *When I'm not coding, I'm reading, sketching, traveling, or curating playlists 🎧*
+- **Languages:** Java, TypeScript, JavaScript, Python
+- **Primary development:** Spring Boot, React, REST APIs
+- **Used across projects:** WebSockets, PostgreSQL, MongoDB, MySQL, Redis, Docker, Git
 
-</td>
-<td valign="top" width="40%">
+## A little more
 
-<img width="320" height="400" alt="GALAXY-PINK-compressed" src="https://github.com/user-attachments/assets/1fb790f6-3fba-4cca-8df7-73df5fee2740" />
+Outside project work, I enjoy sketching, reading, music, and traveling.
 
-</td>
-</tr>
-</table>
+## Get in touch
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-
-### 🗄️ Databases & Caching
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-### 🔧 Tools & Platforms
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanigupta23&show_icons=true&theme=tokyonight&locale=en&count_private=true&custom_title=Suhani's+GitHub+Stats&hide_border=true" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=suhanigupta23&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🎨 **[SketchRoom](https://github.com/suhanigupta23)** | Real-time collaborative whiteboard with sub-100ms sync | Spring Boot · WebSocket · Redis · React · Docker |
-| 🏠 **[InTune](https://github.com/suhanigupta23)** | AI roommate matching with OCR identity verification | Node.js · SBERT · EasyOCR · Firebase · React |
-| 💼 **[CareerCopilot](https://github.com/suhanigupta23)** | AI job tracker with GPT-3.5 resume-JD scoring | Spring Boot · JWT · PostgreSQL · OpenAI API |
-
-</div>
-
----
-
-## 📲 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suhani-gupta23/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/suhanigupta23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://suhanigupta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:suhanigupta2304@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/suhanigupta23/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="thanks for visiting"/>
-  <br/><br/>
-  <i>✨ "Build it, break it, fix it better." ✨</i>
-</div>
+I’m glad to connect about software engineering opportunities, open-source work, or interesting projects. Reach me at [LinkedIn](https://www.linkedin.com/in/suhani-gupta23/) or [email](mailto:suhanigupta2304@gmail.com).
