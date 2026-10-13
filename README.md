@@ -2,7 +2,7 @@
 
 <h1>Suhani Gupta</h1>
 
-<img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/profile-accent.svg" width="470" alt="Full-stack developer, backend-focused, IIIT Kota CSE class of 2027" />
+<p><strong>🩵 Full-stack developer · Backend-focused · IIIT Kota, CSE ’27</strong></p>
 
 <p>Java · Spring Boot · React · TypeScript</p>
 
@@ -18,8 +18,7 @@ I'm a final-year CSE student at IIIT Kota, interested in backend engineering, re
 
 A shared drawing space with synchronized multi-user sessions, shared undo/redo, late-join replay, and reconnect recovery. The WebSocket/STOMP event pipeline batches up to 32 drawing segments into one Redis write and checkpoints state to PostgreSQL.
 
-<a href="https://sketch-room-ashy.vercel.app/"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/live-demo.svg" alt="Open SketchRoom live demo" /></a>
-<a href="https://github.com/suhanigupta23/SketchRoom"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/repository.svg" alt="View SketchRoom repository on GitHub" /></a>
+🩵 [Live Demo](https://sketch-room-ashy.vercel.app/) · 🌱 [Repository](https://github.com/suhanigupta23/SketchRoom)
 
 **Batching:** up to 96.9% fewer Redis write operations per full batch.
 
@@ -29,8 +28,7 @@ A shared drawing space with synchronized multi-user sessions, shared undo/redo, 
 
 A women’s health and telehealth platform for health tracking, appointments, virtual consultations, payments, and AI-assisted symptom guidance. Its Spring Boot and PostgreSQL backend includes concurrency-safe booking, idempotent Stripe payment handling, and a resilient Gemini integration.
 
-<a href="https://saarthi-nine-gamma.vercel.app/"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/live-demo.svg" alt="Open Saarthi live demo" /></a>
-<a href="https://github.com/suhanigupta23/Saarthi"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/repository.svg" alt="View Saarthi repository on GitHub" /></a>
+🩵 [Live Demo](https://saarthi-nine-gamma.vercel.app/) · 🌱 [Repository](https://github.com/suhanigupta23/Saarthi)
 
 ---
 
@@ -38,8 +36,7 @@ A women’s health and telehealth platform for health tracking, appointments, vi
 
 A roommate-matching app that compares lifestyle descriptions for semantic compatibility, with voice onboarding and browser-based document OCR. Its Spring Boot API and MongoDB work with a separate Python/FastAPI matching service.
 
-<a href="https://in-tune-phi.vercel.app/"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/live-demo.svg" alt="Open InTune live demo" /></a>
-<a href="https://github.com/suhanigupta23/InTune"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/repository.svg" alt="View InTune repository on GitHub" /></a>
+🩵 [Live Demo](https://in-tune-phi.vercel.app/) · 🌱 [Repository](https://github.com/suhanigupta23/InTune)
 
 ## Selected achievements
 
