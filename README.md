@@ -2,13 +2,16 @@
 
 <h1>Suhani Gupta</h1>
 
-<p><strong>🩵 Full-stack developer · Backend-focused · IIIT Kota, CSE ’27</strong></p>
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-Backend--Focused%20%C2%B7%20IIIT%20Kota%20%7C%20CSE%20%E2%80%9927-9B7EBD?style=flat" alt="Full-stack developer, backend-focused, IIIT Kota CSE class of 2027" />
 
 <p>Java · Spring Boot · React · TypeScript</p>
 
 <p><a href="https://suhanigupta.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/suhani-gupta23/">LinkedIn</a> · <a href="mailto:suhanigupta2304@gmail.com">Email</a> · <a href="https://leetcode.com/u/suhani-gupta23/">LeetCode</a></p>
 
 </div>
+
+<!-- To add your GIF later, replace YOUR_GIF_URL_HERE with your image URL and uncomment the img element below. -->
+<!-- <img align="right" src="YOUR_GIF_URL_HERE" width="180" height="180" alt="Suhani's animated coding GIF" /> -->
 
 I'm a final-year CSE student at IIIT Kota, interested in backend engineering, real-time systems, and practical AI integration. I enjoy working through the challenges of making applications reliable, not just getting features to work.
 
@@ -18,9 +21,8 @@ I'm a final-year CSE student at IIIT Kota, interested in backend engineering, re
 
 A shared drawing space with synchronized multi-user sessions, shared undo/redo, late-join replay, and reconnect recovery. The WebSocket/STOMP event pipeline batches up to 32 drawing segments into one Redis write and checkpoints state to PostgreSQL.
 
-🩵 [Live Demo](https://sketch-room-ashy.vercel.app/) · 🌱 [Repository](https://github.com/suhanigupta23/SketchRoom)
-
-**Batching:** up to 96.9% fewer Redis write operations per full batch.
+<a href="https://sketch-room-ashy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B6DB0?style=flat&logo=vercel&logoColor=white" alt="Open SketchRoom live demo" /></a>
+<a href="https://github.com/suhanigupta23/SketchRoom"><img src="https://img.shields.io/badge/Repository-24292F?style=flat&logo=github&logoColor=white" alt="View SketchRoom repository on GitHub" /></a> · **Batching:** up to 96.9% fewer Redis write operations per full batch.
 
 ---
 
@@ -28,7 +30,8 @@ A shared drawing space with synchronized multi-user sessions, shared undo/redo, 
 
 A women’s health and telehealth platform for health tracking, appointments, virtual consultations, payments, and AI-assisted symptom guidance. Its Spring Boot and PostgreSQL backend includes concurrency-safe booking, idempotent Stripe payment handling, and a resilient Gemini integration.
 
-🩵 [Live Demo](https://saarthi-nine-gamma.vercel.app/) · 🌱 [Repository](https://github.com/suhanigupta23/Saarthi)
+<a href="https://saarthi-nine-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B6DB0?style=flat&logo=vercel&logoColor=white" alt="Open Saarthi live demo" /></a>
+<a href="https://github.com/suhanigupta23/Saarthi"><img src="https://img.shields.io/badge/Repository-24292F?style=flat&logo=github&logoColor=white" alt="View Saarthi repository on GitHub" /></a>
 
 ---
 
@@ -36,7 +39,8 @@ A women’s health and telehealth platform for health tracking, appointments, vi
 
 A roommate-matching app that compares lifestyle descriptions for semantic compatibility, with voice onboarding and browser-based document OCR. Its Spring Boot API and MongoDB work with a separate Python/FastAPI matching service.
 
-🩵 [Live Demo](https://in-tune-phi.vercel.app/) · 🌱 [Repository](https://github.com/suhanigupta23/InTune)
+<a href="https://in-tune-phi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B6DB0?style=flat&logo=vercel&logoColor=white" alt="Open InTune live demo" /></a>
+<a href="https://github.com/suhanigupta23/InTune"><img src="https://img.shields.io/badge/Repository-24292F?style=flat&logo=github&logoColor=white" alt="View InTune repository on GitHub" /></a>
 
 ## Selected achievements
 
@@ -69,7 +73,7 @@ A roommate-matching app that compares lifestyle descriptions for semantic compat
 
 ## A little more
 
-Away from the keyboard, I make time for ✏️ sketching, 📚 reading, 🎵 music, and ✈️ traveling.
+Outside project work, I enjoy sketching, reading, music, and traveling.
 
 ## Get in touch
 
