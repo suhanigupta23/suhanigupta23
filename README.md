@@ -2,7 +2,7 @@
 
 <h1>Suhani Gupta</h1>
 
-<img src="assets/profile-accent.svg" width="470" alt="Full-stack developer, backend-focused, IIIT Kota CSE class of 2027" />
+<img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/profile-accent.svg" width="470" alt="Full-stack developer, backend-focused, IIIT Kota CSE class of 2027" />
 
 <p>Java · Spring Boot · React · TypeScript</p>
 
@@ -10,16 +10,7 @@
 
 </div>
 
-<table role="presentation">
-  <tr>
-    <td width="72%" valign="middle">
-      <p>I’m a final-year computer science student working primarily with Java, Spring Boot, React, and TypeScript. I’m interested in backend engineering, real-time collaboration, and practical AI features, and I learn by building software people can try.</p>
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="assets/coding-character.gif" width="110" alt="Original anime-inspired illustration of a student coding at a laptop, blinking gently" />
-    </td>
-  </tr>
-</table>
+I'm a final-year CSE student at IIIT Kota, interested in backend engineering, real-time systems, and practical AI integration. I enjoy working through the challenges of making applications reliable, not just getting features to work.
 
 ## Featured projects
 
@@ -27,8 +18,8 @@
 
 A shared drawing space with synchronized multi-user sessions, shared undo/redo, late-join replay, and reconnect recovery. The WebSocket/STOMP event pipeline batches up to 32 drawing segments into one Redis write and checkpoints state to PostgreSQL.
 
-<a href="https://sketch-room-ashy.vercel.app/"><img src="assets/live-demo.svg" alt="Open SketchRoom live demo" /></a>
-<a href="https://github.com/suhanigupta23/SketchRoom"><img src="assets/repository.svg" alt="View SketchRoom repository on GitHub" /></a>
+<a href="https://sketch-room-ashy.vercel.app/"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/live-demo.svg" alt="Open SketchRoom live demo" /></a>
+<a href="https://github.com/suhanigupta23/SketchRoom"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/repository.svg" alt="View SketchRoom repository on GitHub" /></a>
 
 **Batching:** up to 96.9% fewer Redis write operations per full batch.
 
@@ -38,8 +29,8 @@ A shared drawing space with synchronized multi-user sessions, shared undo/redo, 
 
 A women’s health and telehealth platform for health tracking, appointments, virtual consultations, payments, and AI-assisted symptom guidance. Its Spring Boot and PostgreSQL backend includes concurrency-safe booking, idempotent Stripe payment handling, and a resilient Gemini integration.
 
-<a href="https://saarthi-nine-gamma.vercel.app/"><img src="assets/live-demo.svg" alt="Open Saarthi live demo" /></a>
-<a href="https://github.com/suhanigupta23/Saarthi"><img src="assets/repository.svg" alt="View Saarthi repository on GitHub" /></a>
+<a href="https://saarthi-nine-gamma.vercel.app/"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/live-demo.svg" alt="Open Saarthi live demo" /></a>
+<a href="https://github.com/suhanigupta23/Saarthi"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/repository.svg" alt="View Saarthi repository on GitHub" /></a>
 
 ---
 
@@ -47,8 +38,8 @@ A women’s health and telehealth platform for health tracking, appointments, vi
 
 A roommate-matching app that compares lifestyle descriptions for semantic compatibility, with voice onboarding and browser-based document OCR. Its Spring Boot API and MongoDB work with a separate Python/FastAPI matching service.
 
-<a href="https://in-tune-phi.vercel.app/"><img src="assets/live-demo.svg" alt="Open InTune live demo" /></a>
-<a href="https://github.com/suhanigupta23/InTune"><img src="assets/repository.svg" alt="View InTune repository on GitHub" /></a>
+<a href="https://in-tune-phi.vercel.app/"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/live-demo.svg" alt="Open InTune live demo" /></a>
+<a href="https://github.com/suhanigupta23/InTune"><img src="https://raw.githubusercontent.com/suhanigupta23/suhanigupta23/main/assets/repository.svg" alt="View InTune repository on GitHub" /></a>
 
 ## Selected achievements
 
@@ -68,7 +59,7 @@ A roommate-matching app that compares lifestyle descriptions for semantic compat
 **Primary development**<br>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=20232A" alt="React" />
-REST APIs
+<img src="https://img.shields.io/badge/REST%20APIs-29343A?style=flat" alt="REST APIs" />
 
 **Used across projects**<br>
 <img src="https://img.shields.io/badge/WebSockets-29343A?style=flat" alt="WebSockets" />
@@ -81,7 +72,7 @@ REST APIs
 
 ## A little more
 
-Outside project work, I enjoy sketching, reading, music, and traveling.
+Away from the keyboard, I make time for ✏️ sketching, 📚 reading, 🎵 music, and ✈️ traveling.
 
 ## Get in touch
 
